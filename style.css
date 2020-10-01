@@ -1,0 +1,29 @@
+body {
+  display: grid;
+  height: 100vh;
+  grid-template-rows: auto 1fr auto;
+  font-family: Avenir;
+  background: #29C0A8
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+}
+
+header {
+  background: #29C0A8;
+  color: white;
+}
+
+main {
+  background: white;
+}
+
+footer {
+  background: #29C0A8;
+  color: white;
+}
